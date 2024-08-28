@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/font/Abel-Regular.ttf",
+      "sha1": "5a10c588371618fdcd5555b126121a0fb9ec4c26"
+    },
+    {
+      "path": "assets/font/OFL.txt",
+      "sha1": "c6bcfef9251f8be4bc8c1dc6f75460213450a49c"
+    }
+  ]
+}
